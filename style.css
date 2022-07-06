@@ -1,0 +1,18 @@
+.etchArea {
+    display: flex;
+    flex-direction: row;
+}
+
+.etchRow {
+    display: flex;
+
+    flex-wrap: nowrap;
+}
+.etchBox {
+    border: 1px solid black;
+    width:20px;
+    height:20px;
+ 
+    flex: 1 1 300px;
+    flex-wrap: nowrap;
+}
