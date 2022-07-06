@@ -1,0 +1,1 @@
+const etchArea = document.querySelector("etchArea");
